@@ -3,6 +3,17 @@ Business Intelligence and Reporting Tools (BIRT)is a top level Eclipse project.
 As an Eclipse project, BIRT is built for extendability. Developers can customize BIRT to support custom controls and behavior through BIRT extension points. Extension points allow complex custom operations to be integrated right into the BIRT UI and scripting language.
 
 The birt-aggregations-lib project adds a set of aggregations to use in place of the built-in aggregations to avoid the tiny errors that can be produced by floating-point calculations.
+<br/>
+<table>
+	<tr>
+		<th>Built-In Aggregate</th>
+		<th>Corresponding Decimal Aggregate</th>
+	</tr>
+	<tr>
+		<td>AVE</td>
+		<td>Decimal Average</td>
+	</tr>
+</table>
 <br/><br/>
 All of the provided aggregations have been tested for compatibility with BIRT 4.14 and is compatible with BIRT 2.5.1 or later.
 <br/><br/>
