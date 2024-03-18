@@ -72,6 +72,18 @@ The birt-aggregations-lib project adds a set of aggregations to use in place of 
 		<td>STDDEV</td>
 		<td>Decimal StdDev</td>
 	</tr>
+	<tr>
+		<td>SUM</td>
+		<td>Decimal Sum</td>
+	</tr>
+	<tr>
+		<td>VARIANCE</td>
+		<td>Decimal Variance</td>
+	</tr>
+	<tr>
+		<td>WEIGHTEDAVE</td>
+		<td>Decimal Weighted Ave</td>
+	</tr>
 </table>
 <br/><br/>
 All of the provided aggregations have been tested for compatibility with BIRT 4.14 and is compatible with BIRT 2.5.1 or later.
