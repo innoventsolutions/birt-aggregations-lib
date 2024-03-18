@@ -40,6 +40,38 @@ The birt-aggregations-lib project adds a set of aggregations to use in place of 
 		<td>MOVINGAVE</td>
 		<td>Decimal Moving Ave</td>
 	</tr>
+	<tr>
+		<td>NPV</td>
+		<td>Decimal NPV</td>
+	</tr>
+	<tr>
+		<td>PERCENTILE</td>
+		<td>Decimal Percentile</td>
+	</tr>
+	<tr>
+		<td>PERCENTSUM</td>
+		<td>Decimal Percent Sum</td>
+	</tr>
+	<tr>
+		<td>QUARTILE</td>
+		<td>Decimal Quartile</td>
+	</tr>
+	<tr>
+		<td>RANGE</td>
+		<td>Decimal Range</td>
+	</tr>
+	<tr>
+		<td>RUNNINGNPV</td>
+		<td>Decimal Running NPV</td>
+	</tr>
+	<tr>
+		<td>RUNNINGSUM</td>
+		<td>Decimal Running Sum</td>
+	</tr>
+	<tr>
+		<td>STDDEV</td>
+		<td>Decimal StdDev</td>
+	</tr>
 </table>
 <br/><br/>
 All of the provided aggregations have been tested for compatibility with BIRT 4.14 and is compatible with BIRT 2.5.1 or later.
