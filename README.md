@@ -89,7 +89,7 @@ The birt-aggregations-lib project adds a set of aggregations to use in place of 
 All of the provided aggregations have been tested for compatibility with BIRT 4.14 and is compatible with BIRT 2.5.1 or later.
 <br/><br/>
 <a href='http://www.innoventsolutions.com/birt-consulting.html'>Innovent Solutions, Inc.</a> is a consulting firm and a member of the BIRT project team since 2004.
-The software in this project has been donated back to the BIRT community by Innovent under an Eclipse Public License 2.0.<br>
+The software in this project has been donated back to the BIRT community by Innovent under an Eclipse Public License 2.0.
 We welcome you to use, critique, and contribute to this component library.<br>
 <br>
 To get started see the <a href='https://github.com/innoventsolutions/birt-functions-lib/wiki/UsageGuide'>Usage Guide</a>
