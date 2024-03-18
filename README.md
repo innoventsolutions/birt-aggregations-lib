@@ -13,6 +13,33 @@ The birt-aggregations-lib project adds a set of aggregations to use in place of 
 		<td>AVE</td>
 		<td>Decimal Average</td>
 	</tr>
+	<tr>
+		<td>FIRST</td>
+		<td>Decimal First</td>
+	</tr>
+	<tr>
+		<td>LAST</td>
+		<td>Decimal Last</td>
+	</tr>
+	<tr>
+		<td>MAX</td>
+		<td>Decimal Max</td>
+	</tr>
+	<tr>
+		<td>MEDIAN</td>
+		<td>Decimal Median</td>
+	<tr>
+		<td>MIN</td>
+		<td>Decimal Min</td>
+	</tr>
+	<tr>
+		<td>MODE</td>
+		<td>Decimal Mode</td>
+	</tr>
+	<tr>
+		<td>MOVINGAVE</td>
+		<td>Decimal Moving Ave</td>
+	</tr>
 </table>
 <br/><br/>
 All of the provided aggregations have been tested for compatibility with BIRT 4.14 and is compatible with BIRT 2.5.1 or later.
